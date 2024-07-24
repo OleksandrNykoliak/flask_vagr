@@ -32,7 +32,7 @@ MANIFEST
 # Vagrant
 .vagrant/
 ubuntu-bionic-18.04-cloudimg-console.log
-
+.log
 # Flask specific
 instance/
 .webassets-cache
